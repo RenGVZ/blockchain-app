@@ -1,4 +1,5 @@
-### Full stack Blockchain app that allows Crypto currency exchange. Created with React, Solidity, Ethers.js and Hardhat
+### Full stack Blockchain app that allows Crypto currency exchange.
+## Created with React, Solidity, Ethers.js and Hardhat
 ### View it here:
 
 ![cryptx1](https://user-images.githubusercontent.com/48096041/207591304-958da756-9b10-4f37-97b3-2e4ef1f4d292.png)
