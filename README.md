@@ -1,6 +1,6 @@
 # Full stack Blockchain app that allows Crypto currency exchange
 ## Created with React, Solidity, Ethers.js and Hardhat
-### View it here:
+### View it here: https://crypx-app.netlify.app/
 
 I created this project to get a better understanding of emerging technologies being used in the blockchain/crypto sphere. In this guide I'll walk you through the flow of the app. If you follow along with the content of this readme (it's quite short), you'll be able to send GoerliETH test currency through the Ethereum network. Please pick up some GoerliETH through this faucet, and download the Metamask wallet before continuing.
 ### Goerli Faucet (you may have to sign up for Alchemy for this): https://goerlifaucet.com/
